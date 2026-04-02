@@ -19,9 +19,9 @@ A small Streamlit app that visualizes NASA Orion CCSDS OEM ephemeris data in a t
 
 ## Notes
 
-- The trajectory is shown in the EME2000 / J2000 inertial frame.
-- This app uses the timestamps already present in the OEM file.
-- The dashed trajectory is not predicted by the app; it is the future portion already included in the OEM.
+- The trajectory is shown in the EME2000 / J2000 inertial frame
+- This app uses the timestamps already present in the OEM file
+- The dashed trajectory is not predicted by the app; it is the future portion already included in the OEM
 
 ## Run locally
 
